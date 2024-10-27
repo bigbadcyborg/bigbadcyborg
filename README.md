@@ -10,6 +10,6 @@
 
 💬 Ask me about ... my stock market bot
 
-📫 How to reach me: ... PM here
+📫 How to reach me: ... www.linkedin.com/in/russell-sullivan
 
 ⚡ Fun fact: ... I can play the didgeridoo
