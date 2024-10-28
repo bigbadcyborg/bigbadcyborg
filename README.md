@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+👶 I was born and raised in Austin, Texas
+
 🔭 I’m currently working on ... reverse-shell while finishing my CS degree
 
 🌱 I’m currently learning ... system security and computer architecture
