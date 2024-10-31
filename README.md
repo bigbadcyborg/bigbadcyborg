@@ -16,4 +16,3 @@
 
 ⚡ Fun fact: ... I can play the didgeridoo
 
-![banner](32ceedb4-65c9-4b69-ac39-3af117e12a26.webp)
