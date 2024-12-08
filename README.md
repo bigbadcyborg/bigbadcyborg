@@ -2,11 +2,11 @@
 
 👶 I was born and raised in Austin, Texas
 
-🔭 I’m currently working on ... reverse-shell while finishing my CS degree
+🔭 I’m currently working on ... finishing my CS degree
 
 🌱 I’m currently learning ... system security and computer architecture
 
-👯 I’m looking to collaborate on ... anything
+👯 I’m looking to collaborate on ... automated trading through binance API
 
 🤔 I’m looking for help with ... ideas
 
