@@ -4,7 +4,7 @@
 
 🔭 I’m currently working on ... finishing my B.S. in Computer Science
 
-🌱 I’m currently studying ... for compTIA Security+ certification test
+🌱 I’m currently studying ... for the compTIA Security+ certification test
 
 👯 I’m looking to collaborate on ... automated trading through binance API
 
