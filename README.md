@@ -14,7 +14,7 @@
 
 📫 How to reach me: ... www.linkedin.com/in/russell-sullivan
 
-🍳 My skills: C++, C, Java, JavaScript, Python, x86, MIPS, LAMP stack, MERN stack
+🍳 My skills: ... C++, C, Java, JavaScript, Python, x86, MIPS, LAMP stack, MERN stack
 
 ⚡ Fun fact: ... I can play the didgeridoo 
 
