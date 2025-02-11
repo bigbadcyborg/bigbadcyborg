@@ -2,7 +2,7 @@
 
 👶 I was born and raised in Austin, Texas
 
-🔭 I’m currently working on ... finishing my B.S. in Computer Science
+🔭 I’m currently working on ... finishing my B.S. in Computer Science, Minor in Philosophy
 
 🌱 I’m currently studying ... for the compTIA Security+ certification test
 
