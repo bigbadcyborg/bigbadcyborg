@@ -8,7 +8,7 @@
 
 👯 I’m looking to collaborate on automated trading through binance API
 
-🤔 I’m looking for help to brainstorm
+🤔 I’m looking for help to brainstorm ideas to better the world
 
 💬 Ask me about my stock market bot
 
