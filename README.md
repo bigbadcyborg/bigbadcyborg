@@ -15,12 +15,18 @@ Austin, Texas
 
 ## About Me
 
-I'm a Computer Science student with a minor in Philosophy, passionate about building innovative software solutions and exploring cybersecurity. Currently based in Austin, Texas, I combine strong technical skills with creative problem-solving to develop full-stack applications, trading algorithms, and security tools.
+I'm a Computer Science student with a minor in Philosophy, passionate about building innovative software solutions and exploring cybersecurity. Currently based in Austin, Texas, I combine strong technical skills with creative problem-solving abilities.
 
 **Current Focus:**
 - Completing B.S. in Computer Science (Minor in Philosophy)
 - Preparing for CompTIA Security+ Certification
 - Building automated trading systems and cybersecurity tools
+
+---
+
+## Certifications
+
+[![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white)](https://www.comptia.org/certifications/security)
 
 ---
 
