@@ -61,7 +61,7 @@ Cybersecurity | Algorithmic Trading | System Architecture | Low-Level Programmin
 
 ## Featured Projects
 
-### [PassiveGaurd](https://github.com/bigbadcyborg/PassiveGaurd-frontend)
+### [PassiveGuard](https://github.com/bigbadcyborg/PassiveGaurd-frontend)
 **Full-Stack Security Monitoring Platform**
 - React-based frontend with Node.js/Express backend
 - Admin dashboard for user and traffic management
