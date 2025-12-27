@@ -26,7 +26,7 @@ I'm a Computer Science student with a minor in Philosophy, passionate about buil
 
 ## Certifications
 
-<a href="https://www.credly.com/badges/e865c491-787b-48e4-bec1-8c0f0a345c4a/public_url"><img src="https://images.credly.com/size/340x340/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png" alt="CompTIA Security+" width="200"></a>
+[![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white)](https://www.credly.com/badges/e865c491-787b-48e4-bec1-8c0f0a345c4a/public_url)
 
 ---
 
