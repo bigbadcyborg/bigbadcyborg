@@ -15,7 +15,7 @@ Austin, Texas
 
 ## About Me
 
-I'm a Computer Science student with a minor in Philosophy, passionate about building innovative software solutions and exploring cybersecurity. Currently based in Austin, Texas, I combine strong technical skills with creative problem-solving abilities.
+I'm a Computer Science student with a minor in Philosophy, passionate about building innovative software solutions and exploring cybersecurity. Currently based in Austin, Texas, I combine strong technical skills with critical thinking to solve complex problems.
 
 **Current Focus:**
 - Completing B.S. in Computer Science (Minor in Philosophy)
@@ -26,7 +26,7 @@ I'm a Computer Science student with a minor in Philosophy, passionate about buil
 
 ## Certifications
 
-[![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white)](https://www.comptia.org/certifications/security)
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="e865c491-787b-48e4-bec1-8c0f0a345c4a" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 ---
 
