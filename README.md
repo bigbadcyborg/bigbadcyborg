@@ -124,7 +124,6 @@ Cybersecurity | Algorithmic Trading | System Architecture | Low-Level Programmin
 
 **Tech Stack:** Node.js, Express.js, MongoDB, REST API
 
---
 
 </div>
 
