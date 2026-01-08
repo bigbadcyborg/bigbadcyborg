@@ -18,7 +18,6 @@ I'm a Computer Science student with a minor in Philosophy, passionate about buil
 
 **Current Focus:**
 - Completing B.S. in Computer Science (Minor in Philosophy)
-- Preparing for CompTIA Security+ Certification
 - Building automated trading systems and cybersecurity tools
 
 ---
