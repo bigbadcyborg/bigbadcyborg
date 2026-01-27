@@ -47,7 +47,7 @@ Node.js | Express.js | REST APIs
 
 **Databases & Tools**
 ```
-MongoDB | MySQL | LAMP Stack | MERN Stack
+PostgreSQL | MongoDB | MySQL | LAMP Stack | MERN Stack
 ```
 
 **Specializations**
