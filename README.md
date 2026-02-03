@@ -14,7 +14,7 @@ Austin, Texas
 
 ## About Me
 
-I'm a Computer Science student with a minor in Philosophy, passionate about building innovative software solutions and exploring cybersecurity. Currently based in Austin, Texas, I combine strong technical skills with critical thinking to solve complex problems.
+Hello! I'm a Computer Science student with a minor in Philosophy, passionate about building innovative software solutions and exploring cybersecurity. Currently based in Austin, Texas, I combine strong technical skills with critical thinking to solve complex problems.
 
 **Current Focus:**
 - Completing B.S. in Computer Science (Minor in Philosophy)
