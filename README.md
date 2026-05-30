@@ -233,6 +233,8 @@ You can explore my repositories here:
 
 [![View My GitHub Repositories](https://img.shields.io/badge/View%20My%20Repositories-bigbadcyborg-181717?style=for-the-badge\&logo=github)](https://github.com/bigbadcyborg?tab=repositories)
 
+</div>
+
 Current project areas:
 
 * Defensive cybersecurity tooling
@@ -243,7 +245,7 @@ Current project areas:
 * Automation, DevOps, and operations software
 
 
-</div>
+
 
 ---
 
