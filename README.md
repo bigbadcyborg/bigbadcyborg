@@ -49,7 +49,7 @@ A local-first reverse engineering assistant that analyzes decompiled code withou
 
 ---
 
-### [PassiveGuard](https://github.com/bigbadcyborg/PassiveGuard-Fullstack)
+### [PassiveGuard](https://github.com/bigbadcyborg/PassiveGuard-Frontend)
 
 A passive vulnerability scanning platform designed to analyze existing artifacts without intrusive probing or unnecessary network noise.
 
