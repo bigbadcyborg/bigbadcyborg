@@ -9,7 +9,6 @@ B.S. Computer Science, Minor in Philosophy
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Russell%20Sullivan-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/russell-sullivan/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-russellsullivan.com-0A66C2?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://russellsullivan.com)
-[![GitHub](https://img.shields.io/badge/GitHub-bigbadcyborg-181717?style=for-the-badge\&logo=github)](https://github.com/bigbadcyborg)
 
 </div>
 
