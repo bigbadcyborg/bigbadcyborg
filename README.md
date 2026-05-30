@@ -225,8 +225,23 @@ A full-stack operations system for moving-company workflows, including booking, 
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bigbadcyborg\&show_icons=true\&theme=tokyonight\&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bigbadcyborg\&layout=compact\&theme=tokyonight\&hide_border=true)
+## GitHub Activity
+
+I actively build projects across cybersecurity, AI tooling, robotics, full-stack development, systems programming, and automation.
+
+You can explore my repositories here:
+
+[![View My GitHub Repositories](https://img.shields.io/badge/View%20My%20Repositories-bigbadcyborg-181717?style=for-the-badge\&logo=github)](https://github.com/bigbadcyborg?tab=repositories)
+
+Current project areas:
+
+* Defensive cybersecurity tooling
+* Local LLM reverse engineering workflows
+* ROS2 robotics and computer vision
+* Full-stack web applications
+* C, C++, Python, JavaScript, Java, and SQL projects
+* Automation, DevOps, and operations software
+
 
 </div>
 
