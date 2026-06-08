@@ -259,7 +259,6 @@ I am especially interested in internships, entry-level software engineering role
 ## Contact
 
 * **LinkedIn:** [linkedin.com/in/russell-sullivan](https://www.linkedin.com/in/russell-sullivan/)
-* **GitHub:** [github.com/bigbadcyborg](https://github.com/bigbadcyborg)
 * **Portfolio:** [russellsullivan.com](https://russellsullivan.com)
 
 ---
