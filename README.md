@@ -2,10 +2,9 @@
 
 # Russell Sullivan
 
-**Computer Science Student | Software Developer | Cybersecurity Researcher | AI Systems Builder**
+**Computer Science Graduate | CTO | Software Developer | Cybersecurity & AI Systems**
 
-Texas State University
-B.S. Computer Science, Minor in Philosophy
+Texas State University | B.S. in Computer Science | Minor in Philosophy | Class of 2026
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Russell%20Sullivan-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/russell-sullivan/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-russellsullivan.com-0A66C2?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://russellsullivan.com)
@@ -16,17 +15,25 @@ B.S. Computer Science, Minor in Philosophy
 
 ## About Me
 
-I am a Computer Science student and builder focused on cybersecurity, AI-assisted tooling, robotics, full-stack web applications, and systems programming.
+I am a computer science graduate and technology professional focused on cybersecurity, AI-assisted tooling, robotics, full-stack web applications, and systems programming. I serve as CTO at H&T Ranch Services and work in systems support at Contigo Technology, combining hands-on engineering with practical infrastructure and business technology challenges.
 
 My work sits at the intersection of practical software engineering and security research: building tools that inspect systems, automate analysis, support decision-making, and turn complex technical workflows into usable products. I enjoy working close to the machine with C, C++, Linux, networking, and robotics, while also building polished full-stack applications with React, Node.js, Python, Flask, Express, and databases.
 
-Currently, I am focused on:
+My technical focus includes:
 
 * Defensive cybersecurity tooling and passive vulnerability analysis
 * Local LLM workflows for reverse engineering and code understanding
 * ROS2 robotics with TurtleBot3, Jetson, YOLO, Whisper, Espeak, and LLaMA
 * Full-stack products for small businesses, operations, and recommendations
 * Algorithmic thinking, systems design, and applied AI
+
+---
+
+## Professional Experience
+
+* **Chief Technology Officer | H&T Ranch Services:** Technology leadership and digital infrastructure supporting ranch and land services operations.
+* **Systems Support | Contigo Technology:** Technical support and troubleshooting across business IT environments.
+* **Software Development:** Building tools and applications spanning cybersecurity, AI, automation, and full-stack systems.
 
 ---
 
@@ -250,9 +257,9 @@ Current project areas:
 
 ## Current Direction
 
-I am building toward a career in cybersecurity and software engineering, with a long-term focus on defensive tooling, AI-assisted analysis, robotics, and full-stack systems that solve real operational problems.
+As a computer science graduate working in technology leadership and systems support, I am continuing to develop practical solutions in defensive cybersecurity, AI-assisted analysis, robotics, and full-stack software engineering.
 
-I am especially interested in internships, entry-level software engineering roles, cybersecurity roles, research collaborations, and open-source projects where I can keep building useful systems.
+I welcome opportunities in security engineering, software engineering, infrastructure, applied AI, technical leadership, research collaboration, and open-source development.
 
 ---
 
